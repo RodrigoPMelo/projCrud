@@ -1,0 +1,6 @@
+service\CarroService.class
+spring\projCrud\ProjCrudApplication.class
+spring\projCrud\domain\Carro.class
+controller\CarroController.class
+spring\projCrud\domain\Peca.class
+repositor\CarroRepository.class
